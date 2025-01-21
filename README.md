@@ -11,7 +11,7 @@ Markdown commands
 2. and another
 
 * heres a bullted list
-* **   heres a subbullet
+*   * heres a subbullet
 * back to main point
 
 **Bold**
