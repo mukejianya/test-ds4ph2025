@@ -43,3 +43,5 @@
 [ ] Kind of flexible
 [ ] Mildly pliable
 [x] Might as well be written in stone
+
+testing editing a file from command line
